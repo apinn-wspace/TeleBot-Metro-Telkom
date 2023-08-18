@@ -8,8 +8,8 @@ This TeleBot have some specifications below:
   4. Handling 6 photo uploads using else if method, and done gradually and not all at once. So, every photo uploaded has it own message responds from the TeleBot.
      It also stored the photo on the database and stored the photo uploaded into our directory path in our computer.
      
-Name : Afri Almuharram 
-Date : August 15, 2023 
-Instance : Telkom University 
-Program : S1 Informatics, School of Computing
-Internship : TELKOM WITEL RIKEP
+- Name : Afri Almuharram
+- Date : August 15, 2023
+- Instance : Telkom University
+- Program : S1 Informatics, School of Computing
+- Internship : TELKOM WITEL RIKEP
